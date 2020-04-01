@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeonjintae/Documents/core101/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/Users/jeonjintae/Documents/core101/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectPath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/RazorPagesMovie.csproj",
         "packagesPath": "/Users/jeonjintae/.nuget/packages/",
-        "outputPath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/obj/",
+        "outputPath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

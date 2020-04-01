@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tvXcTWAJk8Cm+ah5vsiMPDrnJuiuA/AmAWbEJ4SV5aiYdIy8YPBUUbPM2S8/Z3OrNGVXApiA8KgfVcRAzGFuzQ==",
+  "dgSpecHash": "KLT+JyDpjwZXl3KOBGA7xL383q0elruIm0+hL7lTK/7xWzhXl9UQbkPzjaUjGA1wdoSsf31J76IXvg/T29eOPQ==",
   "success": true,
-  "projectFilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/RazorPagesMovie.csproj",
+  "projectFilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/RazorPagesMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

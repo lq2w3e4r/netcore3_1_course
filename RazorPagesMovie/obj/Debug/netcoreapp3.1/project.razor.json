@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/RazorPagesMovie.csproj",
+  "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/RazorPagesMovie.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20570,43 +20570,43 @@
   "RootNamespace": "RazorPagesMovie",
   "Documents": [
     {
-      "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/Components/ProductList.razor",
-      "TargetPath": "Components\\ProductList.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/Pages/Error.cshtml",
+      "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/Pages/Index.cshtml",
+      "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/Pages/Shared/_Layout.cshtml",
+      "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/Components/ProductList.razor",
+      "TargetPath": "Components\\ProductList.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/Pages/_ViewImports.cshtml",
+      "FilePath": "/Users/jeonjintae/Documents/core101/netcore3_1_course/RazorPagesMovie/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/jeonjintae/Documents/core101/RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
